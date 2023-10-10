@@ -1,0 +1,70 @@
+.navbar-brand{
+	font-weight: bold;
+}
+.navbar-brand ul{
+	font-size: 30px;
+
+}
+
+.nav-item{
+	font-size: 17px;
+	float: right;
+}
+.walltile{
+	background-color: #f0f5f1;
+	min-height: 450px;
+}
+.tile{
+	background-color: white;
+	float: left;
+	height: 230px;
+	width: 230px;
+	border: 1px solid #c3c7c4;
+	margin:60px;
+}
+.sell{
+	display: block;
+	margin-top: 5px;
+	text-align: center;
+}
+.sell h6,h3{
+	padding-top: 10px;
+}
+.sell h6{
+	color: blue;
+}
+.floortile{
+	background-color: #f0f5f1;
+	min-height: 450px;
+	}
+.tileimage{
+	margin: 25px;
+	text-align: center;
+}
+.trending{
+	height: 450px;
+	background-color: #f0f5f1;
+	margin-top: 5px;
+
+	
+}
+.trendingimag{
+	height: 250px;
+	width: 250px;
+	padding: 25px;
+	display:inline-flex;
+	 margin-left: 100px;
+}
+.newimg{
+	margin: 10px;
+}
+.map{
+	height: 450px;
+	margin-top: 5px;
+}
+.container-fluid{
+	opacity: 0.8;
+}
+
+
+ 
